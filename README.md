@@ -1,7 +1,7 @@
 <div>
 <!--Header-->  
 
-  ![header](https://capsule-render.vercel.app/api?type=Wave&color=BFE7BD&height=250&section=header&text=Jiyeong%20's%20GitHub%20&fontColor=f9f9f9)
+  ![header](https://capsule-render.vercel.app/api?type=blur&color=BFE7BD&height=250&section=header&text=🌷%20Jiyeong%20's%20GitHub%20🌷&fontColor=96BE95)
 
 <div>
   <!--Body-->
